@@ -1,0 +1,52 @@
+{
+  "hash": "db2cb60e",
+  "configHash": "d06a7630",
+  "lockfileHash": "133ce1f9",
+  "browserHash": "3644ab39",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "c37796a8",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "3815b0db",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "7cf9d56b",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "6c30f54c",
+      "needsInterop": false
+    },
+    "@tauri-apps/api/core": {
+      "src": "../../../../../node_modules/@tauri-apps/api/core.js",
+      "file": "@tauri-apps_api_core.js",
+      "fileHash": "fa49bd6c",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-TZ4SNMGD": {
+      "file": "chunk-TZ4SNMGD.js"
+    },
+    "chunk-J7IS3NU6": {
+      "file": "chunk-J7IS3NU6.js"
+    },
+    "chunk-ZYY3UOBL": {
+      "file": "chunk-ZYY3UOBL.js"
+    },
+    "chunk-J4B6MK7R": {
+      "file": "chunk-J4B6MK7R.js"
+    }
+  }
+}
